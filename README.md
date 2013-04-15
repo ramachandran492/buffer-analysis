@@ -1,4 +1,4 @@
 buffer-analysis
 ===============
 
-Pearl script to convert timestamps to interframe times at player buffer
+Perl script to convert timestamps to interframe times at player buffer
